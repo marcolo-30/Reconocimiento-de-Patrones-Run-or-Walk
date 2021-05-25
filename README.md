@@ -7,5 +7,5 @@ Para esto se propone evaluar y comparar diferentes técnicas de clasificación p
 | Documentos     | Links |
 | ------------- | ------------- |
 | Dataset | [Kaggle](https://www.kaggle.com/vmalyi/run-or-walk) |
-| Proyecto  | [Google_Collab](https://github.com/marcolo-30/Sistemas-Embebidos-Proyecto2/blob/main/1-wire.py) |
+| Proyecto  | [Google_Collab](https://colab.research.google.com/drive/17XfecEoHyJtaHT2XdylJL-ltTWkZp9hO#scrollTo=U8ElBlEk0qe0) |
 | Informe |[Run-or-Walk IEEE](https://github.com/marcolo-30/Sistemas-Embebidos-Proyecto2/blob/main/Proyecto_2_Sistemas_Embebidos.pdf) |
