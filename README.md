@@ -1,6 +1,6 @@
 # Reconocimiento-de-Patrones-Run-or-Walk
-El proyecto consiste en implementar un modelo de machine learning para reconocer si una persona se encuentra corriendo o caminando.
-Para esto se propone evaluar y comparar diferentes técnicas de clasificación para reconocer si una persona se encuentra corriendo o caminando según los datos obtenidos de los sensores.
+El proyecto consiste en implementar un modelo de machine learning para reconocer si una persona se encuentra corriendo o caminando, teniendo como base datos de un sensor de movimiento.
+Para esto se propone evaluar y comparar diferentes técnicas de clasificación para poder determinar el estado de actividad de la persona.
 
 
 
